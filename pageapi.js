@@ -20,10 +20,27 @@ const Data=[
 	link:"https://psychcentral.com/health/reasons-to-stay-alive",
 	b:"Many life circumstances can bring us to a place of hopelessness or apathy. Family issues, injustice, bullying, and just feeling stuck in the daily grind can leave you wondering, “Is it even worth it?”"
 	},
-    {head:"hpw to help a suicidal person",
+    {head:"how to help a suicidal person",
 	img:"images/sp.jpg",
 	link:"https://www.mayoclinic.org/diseases-conditions/suicide/in-depth/suicide/art-20044707",
 	b:"When someone you know appears suicidal, you might not know what to do. Learn warning signs, what questions to ask and how to get help."
-}
+},
+	{
+	head:"motivation to live",
+	img:"images/hq720.jpg",
+	link:"https://www.youtube.com/watch?v=9Z2DFhF6ICE",
+	b:""},
+	{
+	head:"TEDX video for motivation",
+	img:"images/jj.jpg",
+	link:"https://www.youtube.com/watch?v=MiOVX7qKQ24",
+	b:""
+	},
+	{
+	head:"Message from suicidal survivor",
+	img:"images/h.jpg",
+	link:"https://www.youtube.com/watch?v=qVv_LlS3EiE",
+	b:""
+	}
 ]
 export default Data;
